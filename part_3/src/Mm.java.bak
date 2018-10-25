@@ -1,0 +1,13 @@
+class Mm 
+{
+	public static void main(String[] args) 
+	{
+		int[] x = {false,true,false};
+		for(boolean i : x)
+		{
+
+		System.out.println(i);
+	}
+		
+	}
+}
